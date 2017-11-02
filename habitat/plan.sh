@@ -1,7 +1,9 @@
 pkg_name=sample-node-app
 pkg_origin=habitat_demo
 pkg_scaffolding="core/scaffolding-node"
+#Version Increased
 pkg_version="1.0.2"
+
 
 declare -A scaffolding_env
 
